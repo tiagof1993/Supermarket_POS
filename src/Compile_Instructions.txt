@@ -1,0 +1,3 @@
+# Compilation Instructions
+#g++ -c Supermarket_Pos.cpp
+#g++ -o Supermarket_Pos Supermarket_Pos.o
